@@ -3,7 +3,7 @@
 **b**ack
 **P**ay
 **A**ctually
-**S**suppress
+**S**uppress
 **S**uper Bowls
 
 Premise:
