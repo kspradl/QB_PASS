@@ -4,7 +4,7 @@
 **P**ay
 **A**ctually
 **S**uppress
-**S**uper Bowls
+**S**uper bowls
 
 Premise:
 QBs are hyped to be the requirement to having a shot at winning the Super Bowl and, once a franchise finds one, you pay them when the time comes.
